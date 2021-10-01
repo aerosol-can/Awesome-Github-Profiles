@@ -6,6 +6,6 @@
 </p>
 
 # Contributing to the project
-### [CONTRIBUTING.md](CONTRIBUTING.md)
+#### [CONTRIBUTING.md](CONTRIBUTING.md)
 
 # Awesome Github Profiles
