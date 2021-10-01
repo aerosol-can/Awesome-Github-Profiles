@@ -18,5 +18,5 @@ This repository is included in Hactoberfest 2021.
 # Contributing to the project
 #### [CONTRIBUTING.md](CONTRIBUTING.md)
 
-# Awesome Github Profiles
+# Awesome Github README Profiles
 [Rwitesh Bera](https://github.com/rwiteshbera)
