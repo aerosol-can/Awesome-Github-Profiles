@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-This repository is included in **Hactoberfest 2021**
+This repository is included in [Hactoberfest 2021](https://hacktoberfest.digitalocean.com/)
 </p>
 
 
